@@ -1,40 +1,55 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
-###  公众号少年歌行pro：3月28日10:20，
-
-```
-修复了解锁vip规则中91视频失效的问题
-```
-### 此规则只需开启一次，之后不开圈x也都是vip了。如果用过老版本破解规则提示登录过期的，请删除app并重新下载
-
-```
-#下载地址：
-https://app.1zp8.xyz/i-27LULA
-```
-
-#### 我的解锁vip订阅【认真看使用方法，要同步才能生效】
-
-复制下方规则，粘贴到圈x配置文件[rewrite remote]标签下，回到圈x首页长按右下角风车，再点击左下角刷新按钮即可生效
-
-```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
-```
-
----------------
 
 
-###  公众号少年歌行pro：3月27日12:00，常规修复了v2p订阅里的一些地址失效问题
-
-
-·················
-
-###  公众号少年歌行pro：3月27日10:00，脚本进行如下变动：
+###  公众号少年歌行pro：3月29日16:00，脚本进行如下变动：
 
 ```properties
 
- 为  i-chenzhe 大佬的脚本提供了暂时的分流地址 
+ 1、增加了 肥皂 大佬的 文创阅读 脚本【用法查看脚本】
+ 
+ ```
 
+### 仓库订阅地址：
+```properties
+【圈x订阅地址】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+```
+
+### 注意：需配合cookie使用，可使用我的cookie订阅，或自行按脚本说明手动配置
+```
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+```
+
+-----------
+
+###  公众号少年歌行pro：3月29日15:00，脚本进行如下变动：
+
+```properties
+
+ 1、增加了 photonmang 大佬的 58 同城脚本【用法查看脚本】
+ 
+ 功能：
+新增看视频
+新增早起报名、早起打卡、每日收矿
+新增低价竞拍；神奇旷工：自动召唤矿工、自动收取矿石
+新增看视频领现金（每天共10次）
+新增发财树浇水领现金活动
+新增首页签到；发财树：快速集水滴、翻倍领水滴、升级奖励领取
+新增神奇矿：三日早起打卡报名、三日早起打卡；发财树：每日礼包、浇水领水滴、开红包领水滴、看视频领水滴、开任务红包1-2领水滴；修复升级红包BUG
+新增租金签到、首页签到看视频赢矿石活动;修复发财树活动BUG、调整执行逻辑顺序
+新增发财树：大转盘（需到转盘页面先执行一次转盘获取Cookie）;增加自动判断矿工滑块验证，修复每过一段时间收矿需要手工验证的问题
+新增神奇矿石自动收取2次免费矿、自动收取剩余6次视频矿
+新增发财树：签到领水滴、修复看视频领水滴
 
 ```
 
@@ -50,119 +65,12 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.jso
 
 ```
 
----------------
-
-###  公众号少年歌行pro：3月26日20:00，脚本进行如下变动：
-
-```properties
-
-增加了  解锁91视频vip 规则 (by:HCJS-8)
-
-
+### 注意：需配合cookie使用，可使用我的cookie订阅，或自行按脚本说明手动配置
 ```
-#### App下载地址
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
 ```
-https://app.18sa.xyz/i-S3FM6X
-```
-
-#### 我的解锁vip订阅
-
-复制下方规则，粘贴到圈x配置文件[rewrite remote]标签下，回到圈x首页长按右下角风车，再点击左下角刷新按钮即可生效
-
-```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
-```
-
----------------
-
-
-
-
-###  公众号少年歌行pro：3月26日18:00，脚本进行如下变动：
-
-```properties
-
-i-chenzhe 大佬的库消失了…… 
-
-
-```
-
----------------
-
-###  公众号少年歌行pro：3月26日9:00，增加了以下脚本：
-
-```properties
-
-1、增加了 奇趣史蒂夫 大佬的 京东奇瑞新能源抽奖 脚本 
-
-
-```
-
-### 仓库订阅地址：
-```properties
-【圈x订阅地址】
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
-
-【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
-```
-
-#### 注意：需配合jd cookie使用
-
----------------
-
-
-
-###  公众号少年歌行pro：3月25日11:00，增加了以下解锁vip规则：
-
-```properties
-
-1、增加了 自己写的 七喵小说（是啥你懂的，防和谐） 解锁vip + 去广告 脚本 
-
-appstore下载即可
-
-```
-
-### 我的解锁vip订阅
-
-复制下方规则，粘贴到圈x配置文件[rewrite remote]标签下，回到圈x首页长按右下角风车，再点击左下角刷新按钮即可生效
-
-```
-https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
-```
-
----------------
-
-
-
-
-
-
-###  公众号少年歌行pro：3月25日7:00，增加了以下脚本：
-
-```properties
-
-1、增加了i-chenzhe大佬的 京东乘风破浪的姐姐 脚本 
-
-
-```
-
-### 仓库订阅地址：
-```properties
-【圈x订阅地址】
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
-
-【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
-
-https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
-```
-
-#### 注意：需配合jd cookie使用
-
----------------
 
 --------------
 
