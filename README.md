@@ -1,5 +1,56 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### 公众号少年歌行pro：4月5日22:20，脚本进行如下变动：
+```
+ 1、新增了  ztxtop 大佬的 文创阅读小程序 脚本(不是之前那个文创阅读)
+ ```
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+```
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+### 注意：需配合cookie使用，可使用我的cookie订阅按下方说明操作，或自行按脚本说明手动配置
+```
+[rewrite remote]
+
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+```
+
+------------
+
+### 公众号少年歌行pro：4月5日21:50，脚本进行了如下变动：
+```
+1、修复了  iOS黑科技 的 三更 解锁vip 规则
+
+2、新增了  ios黑科技 的 百丽宫  解锁vip规则
+```
+### 下载地址（邀请码均为脚本作者的）：
+```
+1、三更：
+https://4sq6zh6.cn/5858489?tmp=dy&dir=0
+
+2、百丽宫下载地址：
+https://hkj.lanzous.com/ie7zAnexo2b
+```
+
+### 我的解锁vip订阅【认真看使用方法，要同步才能生效】
+
+复制下方规则，粘贴到圈x配置文件[rewrite remote]标签下，回到圈x首页长按右下角风车，再点击左下角刷新按钮即可生效
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+```
+
+
+
+-------------
+
+
 ### 公众号少年歌行pro：4月5日8:20，脚本进行了如下变动：
 
 根据肥皂大佬的指导，
@@ -12,7 +63,7 @@
 
 25,55 1,5,9-22 * * *
 
-
+--------------
 ### 公众号少年歌行pro：4月5日8:20，脚本进行了如下变动：
 ```
 1、新增了  nobyda大佬的  扫描全能王 解锁vip 规则
