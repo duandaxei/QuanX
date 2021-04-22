@@ -1,6 +1,36 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### 公众号少年歌行pro：4月22日12:35，脚本进行如下变动：
+
+1、增加了 `lxk0301`  的 `京东健康社区0301版`  脚本
+
+2、修改 `藏经阁`  传出的 `京东健康社区`  脚本 名称为 `京东健康社区藏经阁版`  脚本
+
+
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+```
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+
+
+### 公众号少年歌行pro：4月22日8:35，脚本进行如下变动：
+
+ 1、补上了 昨天的`藏经阁`  传出的 `京东健康社区`  脚本（官方网盘地址，每日流量有限）
+ 
+ 2、补上了 昨天的`藏经阁`  传出的 `京东健康社区收能量`  脚本（官方网盘地址，每日流量有限）
+ 
+ 3、肥皂大佬退公开群后的脚本，在未授权前暂时不加了。
+ 
+
+-----------------
+
 ### 公众号少年歌行pro：4月21日7:45，脚本进行如下变动：
 
  1、新增了 `肥皂`  大佬的 `太平洋汽车网`  脚本 ，点击脚本看用法
