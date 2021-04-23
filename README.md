@@ -1,5 +1,48 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+### 公众号少年歌行pro：4月23日17:45，脚本进行如下变动：
+
+ 1、新增了 `lxk0301`  大佬的 `京东健康社区收能量`  脚本 
+ 
+ 2、新增了 `lxk0301`  大佬的 `京东幸运大转盘`  脚本 
+
+ 
+
+### 仓库订阅地址：
+
+【圈x订阅地址】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+```
+【v2p订阅地址,需給瀏覽器翻墻才能正常更新訂閱】
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+```
+-----------------
+
+
+
+### 公众号少年歌行pro：4月23日17:25，脚本进行如下变动：
+
+
+1、解锁vip规则新增了` moo日记 ` 解锁永久会员 规则
+
+此脚本由`搞机大神`提供抓包数据，`公众号少年歌行pro`适配圈x
+
+### APP下载地址：
+
+`appstore` 搜索下载
+
+### 解锁vip规则使用方法
+
+复制下方规则，粘贴到圈x配置文件`[rewrite remote]`标签下，回到`圈x首页`长按`右下角风车`，再点击`左下角刷新按钮`即可生效
+
+```
+https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/unlockvip.conf, tag=少年歌行解锁vip, update-interval=86400, opt-parser=false, enabled=true
+
+```
+
+-----------------
 
 
 ### 公众号少年歌行pro：4月22日16:45，脚本进行如下变动：
