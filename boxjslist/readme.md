@@ -1,4 +1,16 @@
-### 全网各大佬boxjs地址查询对照 2021.4.30
+### 全网各大佬boxjs地址查询对照 2021.5.17
+
+`龙猪猪`
+
+https://ghproxy.com/https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/longzhuzhu.boxjs.json
+
+----------
+
+`dompling二丫`
+
+https://raw.githubusercontent.com/dompling/Script/master/dompling.boxjs.json
+
+--------------
 
 `passerby-b`
 
