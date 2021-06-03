@@ -1,5 +1,170 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### 公众号少年歌行pro：6月3日 17:00，脚本进行如下变动：
+
+1、新增了 `lxk0301` 大佬的 `京东明星小店`脚本
+ 
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙稍等一会拉取0301仓库一次，目前还没同步过来】
+
+
+#### 注意：需配合jd cookie使用
+
+----------------------------
+
+
+
+### 公众号少年歌行pro：6月3日 16:00，脚本进行如下变动：
+
+1、新增了 `zoopanda` 大佬的 `京东宝洁消消乐`脚本
+
+* 环境变量：
+ *     - export ZOO_OPENCAD="true" //默认不开通会员
+ *     - export ZOO_ADD2CART="true" //默认不加购商品
+
+ 
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉取zoopanda仓库命令】
+
+ql repo https://github.com/zooPanda/zoo.git "zoo"
+
+
+#### 注意：需配合jd cookie使用
+
+
+----------------------
+
+### 公众号少年歌行pro：6月3日 15:00，脚本进行如下变动：
+
+1、新增了 `执意` 大佬的 `全免小说`脚本
+
+ 
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙就别费劲跑这个了】
+
+#### 注意：需配合下方 获取cookie重写规则使用
+
+#### 注意：勾选下方规则后，圈x首页长按风车---点左下角刷新按钮---到左上角没有红色数字了再去抓ck
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+````
+
+----------------------------
+
+
+### 公众号少年歌行pro：6月3日 10:00，脚本进行如下变动：
+
+1、新增了 `lxk0301` 大佬的 `京东5G盲盒`脚本
+
+因为此为大佬个人脚本，与原本团队无关，故圈x中图标使用了`伊芙`大明星的头像
+ 
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉取0301仓库运行一次即可更新】
+
+
+#### 注意：需配合jd cookie使用
+
+----------------------------
+
+### 公众号少年歌行pro：6月3日 10:00，脚本进行如下变动：
+
+1、新增了 `jaysherlock` 大佬的 `京东欧乐b`脚本
+
+因为此为大佬个人脚本，与原本团队无关，故圈x中图标使用了`伊芙`大明星的头像
+ 
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉取此脚本命令】
+
+ql raw https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jay_member_olb.js
+
+
+#### 注意：需配合jd cookie使用
+
+
+----------------------
+
+
+
+
+### 公众号少年歌行pro：6月3日 7:00，脚本进行如下变动：
+
+1、新增了 `zoopanda` 大佬的 `京东618与粽不同`脚本
+
+* 环境变量：
+ *     - export ZOO_OPENCAD="true" //默认不开通会员
+ *     - export ZOO_ADD2CART="true" //默认不加购商品
+
+ 
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉取zoopanda仓库命令】
+
+ql repo https://github.com/zooPanda/zoo.git "zoo"
+
+
+#### 注意：需配合jd cookie使用
+
+
+----------------------
+
+
+
 ### 公众号少年歌行pro：6月2日 11:00，脚本进行如下变动：
 
  1、增加了 `Wenmoux` 大佬的 `京东特物ZX联想` 脚本
